@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Other than Coding: Travelling and cooking
 - ⚡ Fun fact: I hate to make friends.
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=sarvendrasingh)
