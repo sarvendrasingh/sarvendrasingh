@@ -9,7 +9,9 @@ Know me breifly:
 - 🔭 I’m currently working on Python Programming
 - 🌱 I’m love to learn new things in depth related to coding
 - 👯 I’m looking to collaborate on some projects for my Country
-- 🤔 I’m looking for help to get some experience
+- ✍️ Writting is my Passion(I write emotions, not words)
+- 🤔 I love to get experience..be it good or bad..
+- 😋 A pure non-vegitarian
 - 💬 Ask me about anything
 - 📫 How to reach me: sarvendrakumarsingh.singh4@gmail.com
 - 😄 Other than Coding: Travelling and cooking
