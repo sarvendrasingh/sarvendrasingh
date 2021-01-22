@@ -18,9 +18,11 @@ Know me breifly:
 - ⚡ Fun fact: I hate to make friends.
 
 
-![Github stats](https://github.com/sarvendrasingh/HTML_LinkedIn/blob/main/Screenshot%20(2).png?raw=true)
+![LinkedIn Profile](https://sarvendrasingh.github.io/HTML_LinkedIn/)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sarvendrasingh)
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="singhsaahab07"><a class="LI-simple-link" href='https://in.linkedin.com/in/singhsaahab07?trk=profile-badge'>View Sarvendra Kumar Singh's Profile on LinkedIn</a></div>
+
+https://github.com/sarvendrasingh/HTML_LinkedIn/blob/main/Screenshot%20(4).png?raw=true
 
 
