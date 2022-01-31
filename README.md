@@ -6,16 +6,16 @@ Know me breifly:
 **sarvendrasingh/sarvendrasingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Python Programming
-- 🌱 I’m love to learn new things in depth related to coding
-- 👯 I’m looking to collaborate on some projects for my Country
+- 🔭 I’m currently working on Salesforce Development
+- 🌱 Exploring customization tools in order to achieve some great steps in Salesforce.
+- 👯 I’m looking to collaborate on some projects on Lightning framework in Salesforce
 - ✍️ Writting is my Passion(I write emotions, not words)
 - 🤔 I love to get experience..be it good or bad..
 - 😋 A pure non-vegitarian
-- 💬 Ask me about anything
+- 💬 Ask me about anything related to Salesforce
 - 📫 How to reach me: sarvendrakumarsingh.singh4@gmail.com
 - 😄 Other than Coding: Travelling and cooking
-- ⚡ Fun fact: I hate to make friends.
+- ⚡ Fun fact: A developer who loves customization approach rather than declarative.
 
 
 ![LinkedIn Profile](https://github.com/sarvendrasingh/HTML_LinkedIn/blob/main/Screenshot%20(4).png?raw=true)
