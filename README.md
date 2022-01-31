@@ -14,7 +14,7 @@ Know me breifly:
 - 😋 A pure non-vegitarian
 - 💬 Ask me about anything related to Salesforce
 - 📫 How to reach me: sarvendrakumarsingh.singh4@gmail.com
-- 😄 Other than Coding: Travelling and cooking
+- 😄 Other than Development: Travelling and cooking
 - ⚡ Fun fact: A developer who loves customization approach rather than declarative.
 
 
